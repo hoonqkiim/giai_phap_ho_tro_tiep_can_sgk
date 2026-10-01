@@ -18,7 +18,7 @@ Giải pháp không nhằm thay thế SGK giấy mà kết hợp các phương t
 
 ## Tài liệu
 
-**[Tài liệu thuyết minh](https://docs.google.com/document/d/1xBtlw0eEnu42wZ1ua6F2AvSkmOsus8ELS56ZJlpCrvA/edit?tab=t.0)**
+**[Tài liệu thuyết minh](./GiảipháphỗtrợtiếpcậnSGK-HoàngKim.pdf)**
 
 ## Công nghệ đề xuất
 
