@@ -18,7 +18,7 @@ Giải pháp không nhằm thay thế SGK giấy mà kết hợp các phương t
 
 ## Tài liệu
 
-**[Tài liệu thuyết minh](./Giải pháp hỗ trợ tiếp cận SGK - Hoàng Kim.pdf)**
+**[Tài liệu thuyết minh (./file:///C:/Users/HKim/Downloads/Gi%E1%BA%A3i%20ph%C3%A1p%20h%E1%BB%97%20tr%E1%BB%A3%20ti%E1%BA%BFp%20c%E1%BA%ADn%20SGK%20-%20Ho%C3%A0ng%20Kim.pdf)**
 
 ## Công nghệ đề xuất
 
