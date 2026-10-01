@@ -14,7 +14,7 @@ Giải pháp không nhằm thay thế SGK giấy mà kết hợp các phương t
 
 ## Prototype
 
-**[Mở Prototype](https://www.figma.com/make/gBAoX68r7nwq2mgBABKL3I/Gi%E1%BA%A3i-ph%C3%A1p-h%E1%BB%97-tr%E1%BB%A3-SGK---Ho%C3%A0ng-Kim?t=i2VdXMkfbNGnPttz-1)**
+**[Mở Prototype]([https://www.figma.com/make/gBAoX68r7nwq2mgBABKL3I/Gi%E1%BA%A3i-ph%C3%A1p-h%E1%BB%97-tr%E1%BB%A3-SGK---Ho%C3%A0ng-Kim?t=i2VdXMkfbNGnPttz-1](https://www.figma.com/make/gBAoX68r7nwq2mgBABKL3I/Gi%25E1%25BA%25A3i-ph%25C3%25A1p-h%25E1%25BB%2597-tr%25E1%25BB%25A3-SGK---Ho%25C3%25A0ng-Kim?code-node-id=0-6&p=f&fullscreen=1))**
 
 ## Công nghệ đề xuất
 
